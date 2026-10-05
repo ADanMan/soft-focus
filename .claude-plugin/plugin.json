@@ -1,0 +1,9 @@
+{
+  "name": "soft-focus",
+  "version": "1.0.0",
+  "description": "Русский разговорный юмор с автоматическим выбором реакции.",
+  "author": {"name": "ADanMan", "url": "https://github.com/ADanMan"},
+  "homepage": "https://github.com/ADanMan/soft-focus",
+  "repository": "https://github.com/ADanMan/soft-focus",
+  "license": "MIT"
+}

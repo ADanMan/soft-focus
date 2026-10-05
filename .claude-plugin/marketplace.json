@@ -1,0 +1,10 @@
+{
+  "name": "soft-focus",
+  "owner": {"name": "ADanMan", "url": "https://github.com/ADanMan"},
+  "plugins": [{
+    "name": "soft-focus",
+    "description": "Стили юмора, цели реакции и автоматический выбор по ситуации.",
+    "source": "./",
+    "category": "productivity"
+  }]
+}
