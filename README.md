@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-c7f96f?style=flat-square&amp;labelColor=171720" alt="Лицензия MIT"></a>
-  <a href="references/patterns.md"><img src="https://img.shields.io/badge/patterns-51-f4a7c5?style=flat-square&amp;labelColor=171720" alt="51 паттерн"></a>
+  <a href="references/patterns.md"><img src="https://img.shields.io/badge/patterns-55-f4a7c5?style=flat-square&amp;labelColor=171720" alt="55 паттернов"></a>
   <a href="SKILL.md"><img src="https://img.shields.io/badge/voice-RU-f4a7c5?style=flat-square&amp;labelColor=171720" alt="Русскоязычный голос"></a>
   <a href="https://github.com/ADanMan/soft-focus/stargazers"><img src="https://img.shields.io/github/stars/ADanMan/soft-focus?style=flat-square&amp;color=c7f96f&amp;labelColor=171720" alt="Звёзды GitHub"></a>
 </p>
@@ -107,15 +107,15 @@ git clone https://github.com/ADanMan/soft-focus.git ~/.claude/skills/soft-focus
 Проверить факты и убрать лишний сленг
 ```
 
-**51 паттерн**, каждый с сигналом, действием, авторским примером и ограничением:
+**55 паттернов**, каждый с сигналом, действием, авторским примером и ограничением:
 
 | Каталог | Количество | Назначение |
 |---|---:|---|
 | H01–H29 | 29 | Убрать нейросетевую гладкость, пафос и пустые оговорки |
 | Z01–Z08 | 8 | Передать русскую чатную интонацию и мемные реакции |
-| J01–J14 | 14 | Построить сценку, перепалку, эскалацию и финальный удар |
+| J01–J18 | 18 | Построить сценку, перепалку, эскалацию и финальный удар |
 
-[Полный каталог паттернов](references/patterns.md) · [Речь, контексты и источники](references/lexicon.md)
+[Книжная основа юмора](references/humor-books.md) · [Полный каталог паттернов](references/patterns.md) · [Речь, контексты и источники](references/lexicon.md)
 
 Одного «бро, кринж, минус аура» мало. Шутка должна держаться на наблюдении или поведении персонажа. Сленг усиливает реплику; текст остаётся понятным без словарной сноски.
 
