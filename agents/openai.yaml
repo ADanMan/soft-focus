@@ -1,0 +1,4 @@
+interface:
+  display_name: "Soft Focus"
+  short_description: "Живой зумерский голос, абсурд и острый юмор"
+  default_prompt: "Используй $soft-focus: перепиши мой текст живо, по-зумерски, с острым неожиданным юмором и сохранением фактов."
