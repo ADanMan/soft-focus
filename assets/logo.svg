@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Soft Focus</title>
+  <desc id="desc">Розовое облако реплики с невозмутимым лицом и зелёной звёздочкой.</desc>
+  <rect width="320" height="320" rx="76" fill="#171720"/>
+  <path d="M67 71h157a32 32 0 0 1 32 32v105a32 32 0 0 1-32 32H132l-48 34 9-34H67a32 32 0 0 1-32-32V103a32 32 0 0 1 32-32Z" fill="#f4a7c5"/>
+  <path d="M90 130h37m44 0h37" stroke="#171720" stroke-width="12" stroke-linecap="round"/>
+  <path d="M119 179h63" stroke="#171720" stroke-width="10" stroke-linecap="round"/>
+  <path d="m259 36 9 23 24 8-24 9-9 24-9-24-23-9 23-8Z" fill="#c7f96f"/>
+</svg>

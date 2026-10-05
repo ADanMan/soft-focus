@@ -1,4 +1,7 @@
 interface:
   display_name: "Soft Focus"
+  icon_small: "./assets/logo.svg"
+  icon_large: "./assets/logo.svg"
+  brand_color: "#F4A7C5"
   short_description: "Живой зумерский голос, абсурд и острый юмор"
   default_prompt: "Используй $soft-focus: перепиши мой текст живо, по-зумерски, с острым неожиданным юмором и сохранением фактов."

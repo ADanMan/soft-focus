@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+  <title id="title">Soft Focus — меньше канцелярита, больше характера</title>
+  <desc id="desc">Название на тёмном фоне, розовый пузырь реплики и зелёные акценты. Русская речь, мемный контекст, хулиганский юмор.</desc>
+  <rect width="1200" height="400" rx="28" fill="#171720"/>
+  <circle cx="1070" cy="85" r="180" fill="#222330"/>
+  <path d="M864 95h192a30 30 0 0 1 30 30v125a30 30 0 0 1-30 30H943l-45 34 8-34h-42a30 30 0 0 1-30-30V125a30 30 0 0 1 30-30Z" fill="#f4a7c5"/>
+  <path d="M888 157h40m54 0h40m-106 61h65" stroke="#171720" stroke-width="11" stroke-linecap="round"/>
+  <path d="m1088 53 9 23 23 8-23 9-9 23-8-23-24-9 24-8Z" fill="#c7f96f"/>
+  <text x="65" y="96" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4" fill="#c7f96f">RUSSIAN VOICE · MEME CONTEXT</text>
+  <text x="60" y="192" font-family="Arial, sans-serif" font-size="86" font-weight="800" letter-spacing="-3" fill="#faf7f9">soft focus.</text>
+  <text x="65" y="250" font-family="Arial, sans-serif" font-size="28" fill="#f4a7c5">Меньше канцелярита. Больше характера.</text>
+  <text x="65" y="333" font-family="Arial, sans-serif" font-size="19" fill="#b4b3c3">Русская речь / живые реакции / хулиганский юмор</text>
+</svg>

@@ -1,6 +1,7 @@
 ---
 name: soft-focus
 description: Use when the user requests Russian-speaking Gen Z or Gen Alpha voice, zoomer slang, meme captions, absurd edgy humor, or a humorous rewrite of stiff AI prose. Applies to requested text or an explicitly enabled conversational style.
+license: MIT
 ---
 
 # Soft Focus
